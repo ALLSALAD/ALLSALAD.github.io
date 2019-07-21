@@ -1,10 +1,17 @@
 @charset "utf-8";
 
-h1 {font-family: 'Work Sans', sans-serif;}
-h3 {font-family: 'Work Sans', sans-serif;}body header {
+h1 {
+	font-family: 'Work Sans', sans-serif;
+	text-decoration: none;
+}
+h3 {
+	font-family: 'Work Sans', sans-serif;
+	font-weight: lighter;
+	text-decoration: none;
+}body header {
 	width: 100%;
 	color: #EDF5E1;
-	background-color: #5CDB95;
+	background-color: #F95700;
 	padding-top: 0px;
 	margin-top: 0px;
 	background-size: auto auto;
@@ -18,7 +25,22 @@ h3 {font-family: 'Work Sans', sans-serif;}body header {
 	padding-right: 1px;
 	padding-bottom: 1px;
 	padding-left: 1px;
+	text-decoration: none;
+}
+body {
+	text-decoration: none;
 }
 
+
 .container {
+	text-decoration: none;
+}
+#sitetitle {
+	text-decoration: none;
+}
+#menu {
+
+
+}
+#copy {
 }
