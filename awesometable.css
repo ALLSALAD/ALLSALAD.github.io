@@ -72,7 +72,7 @@ text-decoration: underline;
 
 /* Modify text font-size and alignment */
 .google-visualization-table-table {
-	line-height: 200%
+	line-height: 150%;
 }
 
 /*** Configuration of FILTERS ***/
@@ -110,16 +110,16 @@ text-decoration: underline;
 
 /* CategoryFilter & csvFilter hovered item in the dropdown */
 .charts-menuitem-highlight {
-	background-color:#FFFFCC!important;
-	border-color:#FFFFCC!important;
+	background-color:#F81B84!important;
+	border-color:#F81B84!important;
 }
 
 /** NumberRangeFilter **/
 /* slider thumbs */
 .google-visualization-controls-slider-horizontal .google-visualization-controls-slider-thumb,
 .google-visualization-controls-slider-vertical .google-visualization-controls-slider-thumb {
-	background-color: #6D6E6E;
-	border: 1px solid #444444;
+	background-color: #F81B84;
+	border: 1px solid #F81B84;
 }
 /* label showing the current thumb value */
 .google-visualization-controls-rangefilter-thumblabel {
