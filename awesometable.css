@@ -13,14 +13,6 @@
 	background-color:#F81B84;
 }
 
-/** Card view specific **/
-.viewCards .google-visualization-table-table {
-	background-color: transparent!important;
-}
-.viewCards .google-visualization-table-td {
-	border-color: #D8D8D8!important;
-}
-
 /*** Google visualization override ***/
 
 /* page number display */
@@ -32,13 +24,13 @@
 .google-visualization-table-table .gradient,
 .google-visualization-table-div-page .gradient {
 	background: #F4F4F4 !important;
-	color:#F81B84;
+	color:#444444;
 }
 
 /* selected/hovered row in a TABLE view */
 .google-visualization-table-tr-sel td,
 .google-visualization-table-tr-over td {
-	background-color: #F81B84!important;
+	background-color: #F81B84 !important;
 }
 
 /*** Configuration of FILTERS ***/
