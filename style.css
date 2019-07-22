@@ -13,6 +13,11 @@ body {
 
 h1 {
 	font-family: 'Work Sans', sans-serif;
+	font-weight: bolder;
+	
+}
+h2 {
+	font-family: 'Work Sans', sans-serif;
 	font-weight: bold;
 	
 }
