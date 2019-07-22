@@ -72,8 +72,7 @@ text-decoration: underline;
 
 /* Modify text font-size and alignment */
 .google-visualization-table-table {
-	padding-top: 50px;
-	padding-bottom: 50px;
+	line-height: 200%
 }
 
 /*** Configuration of FILTERS ***/
