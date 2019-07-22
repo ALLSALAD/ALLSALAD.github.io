@@ -110,8 +110,8 @@ text-decoration: underline;
 
 /* CategoryFilter & csvFilter hovered item in the dropdown */
 .charts-menuitem-highlight {
-	background-color:#F81B84!important;
-	border-color:#F81B84!important;
+	background-color:#ffdbec!important;
+	border-color:#ffdbec!important;
 }
 
 /** NumberRangeFilter **/
