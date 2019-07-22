@@ -66,7 +66,7 @@ text-decoration: underline;
 }
 
 .google-visualization-table-tr-over td {
-	background-color: #ffdbec!important;
+	background-color: #ffe3f1!important;
 	
 }
 
@@ -110,8 +110,8 @@ text-decoration: underline;
 
 /* CategoryFilter & csvFilter hovered item in the dropdown */
 .charts-menuitem-highlight {
-	background-color:#ffdbec!important;
-	border-color:#ffdbec!important;
+	background-color:#ffe3f1!important;
+	border-color:#ffe3f1!important;
 }
 
 /** NumberRangeFilter **/
