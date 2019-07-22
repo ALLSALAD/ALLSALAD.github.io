@@ -118,8 +118,8 @@ text-decoration: underline;
 /* slider thumbs */
 .google-visualization-controls-slider-horizontal .google-visualization-controls-slider-thumb,
 .google-visualization-controls-slider-vertical .google-visualization-controls-slider-thumb {
-	background-color: #F81B84;
-	border: 1px solid #F81B84;
+	background-color: #6D6E6E;
+	border: 1px solid #444444;
 }
 /* label showing the current thumb value */
 .google-visualization-controls-rangefilter-thumblabel {
