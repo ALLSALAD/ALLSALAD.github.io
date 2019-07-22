@@ -9,6 +9,7 @@ body {
 	padding-left: 0px;
 	padding-right: 0px;
 	padding-bottom: 0px;
+	font-family: 'Work Sans', sans-serif;
 }
 
 h1 {
@@ -61,5 +62,6 @@ body header {
 	padding-left: 20px;
 	padding-right: 40%;
 	padding-top: 20px;
-	font-family: Work-Sans;
+	font-family: 'Work Sans', sans-serif;
+	font-size: large;
 }
