@@ -1,5 +1,32 @@
 /*** Awesome Table ***/
 
+@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
+
+* {
+  font-family: "Work Sans";
+}
+
+/* unvisited link */
+a:link {
+  color: #F81B84;
+}
+
+/* visited link */
+a:visited {
+  color: #000000;
+}
+
+a {
+text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+} 
+/* loader progress bar */
+.loader {
+        background-color:#F81B84;
+}
+
 /* filtered results information : last - first / total number of result */
 .count {
 	border-top:1px solid #E5E5E5;
