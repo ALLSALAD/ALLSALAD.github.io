@@ -64,6 +64,7 @@ text-decoration: underline;
 .google-visualization-table-tr-sel td,
 .google-visualization-table-tr-over td {
 	background-color: #F81B84!important;
+	color: #F4F4F4;
 }
 
 /*** Configuration of FILTERS ***/
