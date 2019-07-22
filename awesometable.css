@@ -72,7 +72,7 @@ text-decoration: underline;
 
 /* Modify text font-size and alignment */
 .google-visualization-table-table {
-	line-height: 200%
+	line-height: 200%;
 }
 
 /*** Configuration of FILTERS ***/
