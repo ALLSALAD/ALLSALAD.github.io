@@ -70,6 +70,12 @@ text-decoration: underline;
 	
 }
 
+/* Modify text font-size and alignment */
+.google-visualization-table-table {
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
 /*** Configuration of FILTERS ***/
 
 /** Labels of filters **/
