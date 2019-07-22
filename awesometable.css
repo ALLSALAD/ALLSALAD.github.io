@@ -35,7 +35,7 @@ text-decoration: underline;
 
 /* loader progress bar */
 .loader {
-	background-color:#db4437;
+	background-color:#F81B84;
 }
 
 /** Card view specific **/
@@ -61,10 +61,13 @@ text-decoration: underline;
 }
 
 /* selected/hovered row in a TABLE view */
-.google-visualization-table-tr-sel td,
+.google-visualization-table-tr-sel td {
+	background-color: #F4F4F4!important;
+}
+
 .google-visualization-table-tr-over td {
 	background-color: #F81B84!important;
-	color: #F4F4F4;
+	
 }
 
 /*** Configuration of FILTERS ***/
