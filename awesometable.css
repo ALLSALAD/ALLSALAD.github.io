@@ -7,28 +7,7 @@
 }
 
 
-@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
 
-* {
-  font-family: "Work Sans";
-}
-
-/* unvisited link */
-a:link {
-  color: #F81B84;
-}
-
-/* visited link */
-a:visited {
-  color: #000000;
-}
-
-a {
-text-decoration: none;
-}
-a:hover {
-text-decoration: underline;
-} 
 /* loader progress bar */
 .loader {
 	background-color:#F81B84;
@@ -59,7 +38,7 @@ text-decoration: underline;
 /* selected/hovered row in a TABLE view */
 .google-visualization-table-tr-sel td,
 .google-visualization-table-tr-over td {
-	background-color: #FFFFCC!important;
+	background-color: #F81B84!important;
 }
 
 /*** Configuration of FILTERS ***/
